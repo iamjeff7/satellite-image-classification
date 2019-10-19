@@ -1,6 +1,6 @@
 # satellite-image-classification
 
-Classification on satellite image are performed using Machine Learning and Deep Learning algorithms. The
+Classification on satellite images are performed using Machine Learning and Deep Learning algorithms. The
 algorithms are trained on the subset of NPU-RESISC45 dataset which consists of 12 scene
 classes, with 700 images. The classification model performance is evaluated using accuracy,
 precision, recall, F1-score and confusion matrix.
